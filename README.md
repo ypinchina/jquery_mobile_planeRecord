@@ -1,0 +1,4 @@
+# jquery_mobile_planeRecord
+jquery_mobile_planeRecord
+
+用jqueryMobile实现的一个飞机航班webApp 掌握了jqm的使用
